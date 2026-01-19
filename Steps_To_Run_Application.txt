@@ -1,13 +1,13 @@
 JAVA
 start STS 
-Go to D:\ai_smart_road_monitoring_system_application\src\main\java\com\ai\smart\road\monitoring\system\application and right-click and run as a Java application AiSmartRoadMonitoringApplication.java.
-Go to D:\ai_smart_road_monitoring_system_application\src\main\java\com\ai\smart\road\monitoring\system\application\guipackage and right-click and run as a Java application.  SmartRoadDashboardLauncher.java.
+Go to D:\ai_smart_road_monitoring_system_application\src\main\java\com\ai\smart\road\monitoring\system\application and right-click and run as spring boot Java application AiSmartRoadMonitoringApplication.java.
+Go to D:\ai_smart_road_monitoring_system_application\src\main\java\com\ai\smart\road\monitoring\system\application\guipackage and right-click and run as spring boot a Java application.  SmartRoadDashboardLauncher.java.
 
-Python 
+P
 1st CMD open 
 Go to D:\ai_smart_road_monitoring_system_application\python_ai and run api_server.py.
 2nd CMD open
-Go to D:\ D:\ai_smart_road_monitoring_system_application\python_ai and run gui_api_client.py.
+Go to D:\ D:\ai_smart_road_monitoring_system_application\python_ai and run gui_api_client.py. and gui_desktop.py
 
 ⭐ Admin Dashboard
 http://localhost:9090/admin/dashboard
